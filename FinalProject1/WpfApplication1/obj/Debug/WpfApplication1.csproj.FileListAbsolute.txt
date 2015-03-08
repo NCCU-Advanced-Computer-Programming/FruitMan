@@ -1,0 +1,22 @@
+c:\users\tim\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\select.baml
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\select.g.cs
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\Tim\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.AboutBox1.resources
+D:\Temp\103_WP_Final_hw100029880\100306081\FinalProject1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Temp\103_WP_Final_hw100029880\100306081\FinalProject1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Temp\103_WP_Final_hw100029880\100306081\FinalProject1\WpfApplication1\obj\Debug\WpfApplication1.pdb
